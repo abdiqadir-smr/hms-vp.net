@@ -1,0 +1,26 @@
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\bin\Debug\Hospital Managment System.exe
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\bin\Debug\Hospital Managment System.pdb
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\bin\Debug\Hospital Managment System.xml
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Change_Password.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Doctor.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Login.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.MainForm.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Resources.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.NurseWardboy_Details.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Patient.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Registration.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Room.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Services.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Ward.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.vbproj.GenerateResource.Cache
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.exe
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.xml
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.pdb
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Doctors_Record.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.PatientRecord.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.NurseWardboyRecord.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.ServicesRecord.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Record.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.About.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Contact.resources
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Welcome.resources

@@ -1,0 +1,33 @@
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\bin\Debug\Hospital Managment System.exe.config
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.exe
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.xml
+C:\Users\a\Documents\Visual Studio 2008\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.pdb
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\bin\Debug\Hospital Managment System.exe.config
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.exe
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.xml
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.pdb
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.vbprojResolveAssemblyReference.cache
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.About.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Backup.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Change_Password.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Contact.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Doctor.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Doctors_Record.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.FrmLogin.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Login.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.LoginDetails.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.MainForm.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Resources.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.NurseWardboy_Details.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.NurseWardboyRecord.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Patient.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.PatientRecord.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.patientReport.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Record.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Registration.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Room.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Services.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.ServicesRecord.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Ward.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital_Managment_System.Welcome.resources
+H:\JUNIOR IT CLASS A\Hospital Managment System\Hospital Managment System\obj\x86\Debug\Hospital Managment System.vbproj.GenerateResource.Cache
